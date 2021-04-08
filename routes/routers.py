@@ -1,7 +1,6 @@
 from main import app
 from flask import request
 import psycopg2
-import html
 import json
 from datetime import datetime
 
